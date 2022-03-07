@@ -1,0 +1,59 @@
+{
+    "help": "Help",
+    "add": "Add",
+    "cancel": "Cancel",
+    "clear": "Clear",
+    "create": "Create",
+    "error": "Error",
+    "ok": "Ok",
+    "currency": {
+        "dinar": "Dinar"
+    },
+    "nav": {
+        "dashboard": "Dashboard"
+    },
+    "auth": {
+        "signin_header": "Sign in to your account",
+        "email": "Email",
+        "password": "Password",
+        "password_confirm": "Confirm Password",
+        "remember": "Keep me logged in",
+        "forget_pass": "Forgot your password?",
+        "signin": "Sign In",
+        "signin_error": "The email or password is incorrect",
+        "register_account": "Register for an SMB account",
+        "forget_header": "Forgot Password",
+        "send": "Send",
+        "forget_message": "We sent an email with link to reset password.",
+        "reset_header": "Reset Password",
+        "reset": "Reset",
+        "reset_expired": "Reset password link is expired.",
+        "password_placeholder": "Password"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "subtitle": "Get an overview of your workspace"
+    },
+    "validation": {
+        "required": "The value is required",
+        "min_length": "This field should be at least {length} long",
+        "max_length": "The maximum length allowed is {length}",
+        "min_value": "The minimum value allowed is {min}",
+        "max_value": "The maximum value allowed is {max}",
+        "between": "The value must be between {min} and {max}",
+        "alpha": "The value must be alphabetical",
+        "alph_num": "The value must be alpha-numeric",
+        "numeric": "The value must be numeric",
+        "integer": "The value must be an integer",
+        "decimal": "The value must be decimal",
+        "email": "The value is not a valid email address",
+        "ip_address": "The value is not a valid IP address",
+        "mac_address": "The value is not a valid MAC Address",
+        "same_as": "The value must be equal to the {other} value",
+        "url": "The value is not a valid URL address",
+        "or": "The value does not match any of the provided validators",
+        "and": "The value does not match all of the provided validators",
+        "not": "The value does not match the provided validator",
+        "phone": "The value is not a valid phone number"
+    }
+}
